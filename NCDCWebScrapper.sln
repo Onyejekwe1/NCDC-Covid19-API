@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCDCWebScrapper", "NCDCWebScrapper\NCDCWebScrapper.csproj", "{498D1B7F-DF9F-4F30-9297-9ACE3A62BEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCDCApi", "NCDCApi\NCDCApi.csproj", "{91EF2A58-3641-4EF5-B33D-4B7D90245369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498D1B7F-DF9F-4F30-9297-9ACE3A62BEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498D1B7F-DF9F-4F30-9297-9ACE3A62BEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498D1B7F-DF9F-4F30-9297-9ACE3A62BEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498D1B7F-DF9F-4F30-9297-9ACE3A62BEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EF2A58-3641-4EF5-B33D-4B7D90245369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EF2A58-3641-4EF5-B33D-4B7D90245369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EF2A58-3641-4EF5-B33D-4B7D90245369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EF2A58-3641-4EF5-B33D-4B7D90245369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5584D748-68E6-4ECB-B233-2C0E44A0DECC}
+	EndGlobalSection
+EndGlobal
